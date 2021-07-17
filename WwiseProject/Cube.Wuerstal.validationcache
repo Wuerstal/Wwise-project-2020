@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Triggers\Music.wwu" DateLow="1610906147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Switches\Music.wwu" DateLow="1607332937" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Switches\Default Work Unit.wwu" DateLow="1607332937" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\States\Music.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\States\Default Work Unit.wwu" DateLow="1608227271" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1607939638" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1606391108" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Queries\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Presets\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1607082603" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1608543545" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Interactive Music Hierarchy\Music.wwu" DateLow="1610906147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Game Parameters\Music.wwu" DateLow="1607939638" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1607332937" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Events\Music.wwu" DateLow="1610906147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Events\Default Work Unit.wwu" DateLow="1610906147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Effects\Factory Effects.wwu" DateLow="1607930403" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Effects\Default Work Unit.wwu" DateLow="1608543545" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Cube.Wuerstal.wsettings" DateLow="1610914964" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Cube.wproj" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Attenuations\My Cube.wwu" DateLow="1607939638" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1608491227" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Actor-Mixer Hierarchy\Music.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Dokumente\WwiseProject-LukasZickl\Wwise-project-2020\WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1610617609" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Triggers\Music.wwu" DateLow="1610906147" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
