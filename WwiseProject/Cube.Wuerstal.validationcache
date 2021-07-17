@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Triggers\Music.wwu" DateLow="1610906147" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Switches\Music.wwu" DateLow="1607332937" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Switches\Default Work Unit.wwu" DateLow="1607332937" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\States\Music.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\States\Default Work Unit.wwu" DateLow="1608227271" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1607939638" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1606391108" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Queries\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Presets\Default Work Unit.wwu" DateLow="1601889047" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1607082603" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1608543545" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Interactive Music Hierarchy\Music.wwu" DateLow="1610906147" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Game Parameters\Music.wwu" DateLow="1607939638" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1607332937" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Events\Music.wwu" DateLow="1610906147" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Events\Default Work Unit.wwu" DateLow="1610906147" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Effects\Factory Effects.wwu" DateLow="1607930403" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Effects\Default Work Unit.wwu" DateLow="1608543545" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Cube.Wuerstal.wsettings" DateLow="1610914074" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Cube.wproj" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Attenuations\My Cube.wwu" DateLow="1607939638" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1608491227" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Actor-Mixer Hierarchy\Music.wwu" DateLow="1601889030" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2019.2.6.7381\Cube\WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1610617609" DateHigh="0"/>
+</ValidationCache>
